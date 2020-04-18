@@ -1,0 +1,1 @@
+var msg="my msg";
